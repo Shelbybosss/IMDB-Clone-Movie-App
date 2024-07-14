@@ -70,9 +70,4 @@ npm run build
 - CSS: Styling of the application.
 
 
-│   ├── App.css
-│   ├── index.js
-│   └── ...
-├── package.json
-└── README.md
 
